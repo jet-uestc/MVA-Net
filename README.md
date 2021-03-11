@@ -2,7 +2,7 @@
 Submission for IROS 2021
 
 Datasets is [drive360](https://dpawsbear-my.sharepoint.com/:f:/g/personal/wmslecz_dpawsbear_onmicrosoft_com/EtmEW-BS-jVAlPQlTMU0_FIB3bW0dZ4E0lMa7ZpNLu93Bg?e=5%3AKAB2Pu&at=9)
- Password is `mii123456`
+ and Password: `mii123456`
 
 
 
